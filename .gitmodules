@@ -1,0 +1,4 @@
+[submodule "subway"]
+	path = subway
+	url = https://github.com/lmorad/subway.git
+	branch = master
